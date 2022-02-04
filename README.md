@@ -6,7 +6,7 @@ This was a solution created by our internship team for the company to deal with 
 
 NOTE: It is not completed.
 
-# Installation and Run
+## Installation and Run
 To install, you should use the command below from the location of the project:
 ```
 npm install

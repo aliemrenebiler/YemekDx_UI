@@ -17,3 +17,15 @@ To run the project:
 ```
 npm run serve
 ```
+
+## Snapshots
+
+![YemekDx UI Image 1](images/AEN-yemekdx-1.png)
+![YemekDx UI Image 2](images/AEN-yemekdx-2.png)
+![YemekDx UI Image 3](images/AEN-yemekdx-3.png)
+![YemekDx UI Image 4](images/AEN-yemekdx-4.png)
+![YemekDx UI Image 5](images/AEN-yemekdx-5.png)
+![YemekDx UI Image 6](images/AEN-yemekdx-6.png)
+![YemekDx UI Image 7](images/AEN-yemekdx-7.png)
+![YemekDx UI Image 8](images/AEN-yemekdx-8.png)
+![YemekDx UI Image 9](images/AEN-yemekdx-9.png)
